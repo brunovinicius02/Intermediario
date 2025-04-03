@@ -1,6 +1,7 @@
 import json
 import os
 
+
 FILE_NAME = "lista_compras.json"
 
 # Detecta o sistema operacional para limpar o terminal corretamente
